@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-snickers/static/css/main.087d6172.css",
-    "main.js": "/react-snickers/static/js/main.0f752e49.js",
+    "main.js": "/react-snickers/static/js/main.b337acd8.js",
     "index.html": "/react-snickers/index.html",
     "main.087d6172.css.map": "/react-snickers/static/css/main.087d6172.css.map",
-    "main.0f752e49.js.map": "/react-snickers/static/js/main.0f752e49.js.map"
+    "main.b337acd8.js.map": "/react-snickers/static/js/main.b337acd8.js.map"
   },
   "entrypoints": [
     "static/css/main.087d6172.css",
-    "static/js/main.0f752e49.js"
+    "static/js/main.b337acd8.js"
   ]
 }
